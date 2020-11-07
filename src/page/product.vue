@@ -1,5 +1,5 @@
 <template>
-    <div></div>
+    <div>Prodcut</div>
 </template>
 
 <script>

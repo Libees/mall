@@ -13,7 +13,7 @@ import NavFooter from "@/components/NavFooter";
 export default {
     name: "home",
     components: {
-        NavHeader, NavFooter
+        NavHeader, NavFooter  
     }
 }
 </script>
